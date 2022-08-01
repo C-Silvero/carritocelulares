@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!--fonts-->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Cairo:wght@600&family=Roboto+Slab:wght@300&display=swap" rel="stylesheet">
+    <!--css-->
+    <link rel="stylesheet" href="styles.css">
+    <title>TuCell Productos</title>
+</head>
+<body>
+    <header>
+        <img src="./images/logo.png" alt="" id="logo">
+        <button id="boton-carrito"><img src="./images/carrito.png" alt=""></button>
+    </header>
+
+    
+    
+    <main id="contenedor-productos">
+
+    </main>
+
+    <div class="modal-contenedor">
+        <div class="modal-carrito">
+            <h3>Finalizar compra</h3>
+        
+            <button id="carritoCerrar"></button>
+             <div id="carrito-contenedor">
+                
+            </div> 
+            <p class="precioProducto">Precio total: $<span id="precioTotal">0</span></p>
+            <button id="vaciar-carrito" class="boton-agregar">Vaciar carrito</button>
+        </div>
+    </div>
+
+    
+    <script src="//cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+    <script src="./js/carrito.js"></script>
+    <script src="./js/miarchivo.js"></script>
+</body>
+</html>

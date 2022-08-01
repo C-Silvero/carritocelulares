@@ -1,0 +1,14 @@
+ [
+    {"id":1, "nombre": "Samsung Galaxy A52","cantidad": 1,"descripcion": "Tiene 4 cámaras traseras de 64Mpx/12Mpx/5Mpx/5Mpx" ,"precio": 73900, "img": "./images/a52.webp"},
+
+    {"id":2, "nombre": "Samsung Galaxy S21","cantidad": 1,"descripcion": "128 GB / Triple Cámara trasera de 12 MP + 12 MP + 8 MP" ,"precio": 163900, "img": "./images/samsungs21.jpg"},
+
+    {"id":3,"nombre": "Samgung Galaxy A72","cantidad": 1, "descripcion": "Memoria de 128 GB / Cámara frontal principal 32Mpx", "precio": 88700, "img":"./images/a72.webp"},
+    
+    {"id":4,"nombre": "Apple Iphone 11 ","cantidad": 1, "descripcion": "128 GB / Dos cámaras de 12 MP ultra gran angular y gran angular", "precio": 170900, "img":"./images/iphone11.jpg"},
+  
+    {"id":5,"nombre": "Apple Iphone SE ","cantidad": 1,"descripcion": "64 GB / Cámara principal 7Mpx / Cámara trasera principal: 12 Mpx" ,"precio": 120000, "img":"./images/iphonese.jpg"},
+
+    {"id":6,"nombre": "Apple Iphone XR","cantidad": 1,"descripcion": "64 GB / Cámara única de 12 MP (gran angular) con modo Retrato," ,"precio": 220000, "img":"./images/iphonexrr.png"}
+
+  ]
