@@ -9,6 +9,6 @@
   
     {"id":5,"nombre": "Apple Iphone SE ","cantidad": 1,"descripcion": "64 GB / Cámara principal 7Mpx / Cámara trasera principal: 12 Mpx" ,"precio": 120000, "img":"./images/iphonese.jpg"},
 
-    {"id":6,"nombre": "Apple Iphone XR","cantidad": 1,"descripcion": "64 GB / Cámara única de 12 MP (gran angular) con modo Retrato," ,"precio": 220000, "img":"./images/iphonexrr.png"}
+    {"id":6,"nombre": "Apple Iphone XR","cantidad": 1,"descripcion": "64 GB / Cámara única de 12 MP (gran angular) con modo Retrato" ,"precio": 220000, "img":"./images/iphonexrr.png"}
 
   ]

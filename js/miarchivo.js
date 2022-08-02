@@ -84,7 +84,7 @@ const precioTotal = document.getElementById('precioTotal')
  // funcion para agregar al carrito un producto. Si el producto ya esta añadido, se incrementa la cantidad. Si no, se lo agrega al carro con metodo
          const existe = carrito.some (prod => prod.id === prodId) 
          if (existe){ 
-             const prod = carrito.map (prod => { 
+             carrito.map (prod => { 
                  if (prod.id === prodId){
                       prod.cantidad++
                   }
